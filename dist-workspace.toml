@@ -22,7 +22,7 @@ install-updater = true
 # Path that installers should place binaries in
 install-path = "CARGO_HOME"
 # Whether to sign macOS executables
-macos-sign = true
+macos-sign = false
 # Whether to embed dependency information using cargo-auditable
 cargo-auditable = true
 
